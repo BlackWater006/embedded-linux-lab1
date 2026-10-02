@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Architecture-ARMv7-blue?style=for-the-badge" alt="ARMv7">
   <img src="https://img.shields.io/badge/Linux-5.15-orange?style=for-the-badge" alt="Linux 5.15">
-  <img src="https://img.shields.io/badge/U--Boot-2026.04-LTS-green?style=for-the-badge" alt="U-Boot 2026.04-LTS">
+  <img src="https://img.shields.io/badge/U--Boot-2026.04-green?style=for-the-badge" alt="U-Boot 2026.04-LTS">
   <img src="https://img.shields.io/badge/BusyBox-1.35.0-purple?style=for-the-badge" alt="BusyBox 1.35.0">
   <img src="https://img.shields.io/badge/QEMU-vexpress--a9-red?style=for-the-badge" alt="QEMU vexpress-a9">
 </p>
