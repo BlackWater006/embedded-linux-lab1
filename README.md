@@ -567,16 +567,16 @@ flowchart LR
 │              Embedded Linux System            │
 ├──────────────────────────────────────────────┤
 │                                              │
-│  Architecture     ARMv7                     │
-│  CPU              Cortex-A9                 │
+│  Architecture     ARMv7                      │
+│  CPU              Cortex-A9                  │
 │  Machine          QEMU vexpress-a9          │
 │  Kernel           Linux 5.15                │
 │  Bootloader       U-Boot 2022.04            │
 │  Userspace        BusyBox 1.35.0            │
 │  Root filesystem  Initramfs                 │
 │  Memory           512 MB                    │
-│  CPUs             2                         │
-│  Console          ttyAMA0                   │
+│  CPUs             2                          │
+│  Console          ttyAMA0                    │
 │                                              │
 └──────────────────────────────────────────────┘
 ```
